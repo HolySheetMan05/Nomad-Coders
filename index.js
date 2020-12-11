@@ -1,0 +1,1 @@
+alert('Im working. Im JS. Im beautiful. Im the best of the world.');
